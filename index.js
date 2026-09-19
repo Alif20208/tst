@@ -191,7 +191,7 @@ process.on('unhandledRejection', (reason) => {
     loadNumberBot();
     loadOtpWorkers();
 })();
-const fs = require('fs');
+//const fs = require('fs');
 const path = require('path');
 const TelegramBot = require("node-telegram-bot-api");
 
