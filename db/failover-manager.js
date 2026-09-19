@@ -12,7 +12,6 @@
 'use strict';
 
 const mongoose  = require('mongoose');
-const fs        = require('fs');
 const path      = require('path');
 const { EventEmitter } = require('events');
 
