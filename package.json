@@ -1,0 +1,33 @@
+{
+  "name": "all-bots",
+  "version": "2.2.0",
+  "description": "Multiple Telegram bots running together",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "overrides": {
+    "form-data": "^4.0.6"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "axios-cookiejar-support": "^6.0.5",
+    "cheerio": "^1.2.0",
+    "country-emoji": "^1.5.6",
+    "express": "^5.2.1",
+    "i18n-iso-countries": "^7.14.0",
+    "input": "^1.0.1",
+    "libphonenumber-js": "^1.13.13",
+    "moment": "^2.31.0",
+    "mongodb": "^7.6.0",
+    "mongoose": "^9.10.1",
+    "node-telegram-bot-api": "^0.67.0",
+    "sql.js": "^1.14.2",
+    "telegraf": "^4.16.3",
+    "telegram": "^2.26.22",
+    "tough-cookie": "^5.1.2",
+    "xlsx": "^0.18.5"
+  },
+  "author": "ALIF HOSSON",
+  "license": "MIT"
+}
