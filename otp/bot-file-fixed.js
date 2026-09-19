@@ -5,7 +5,7 @@ const { parsePhoneNumberFromString } = require("libphonenumber-js");
 const countryEmoji = require("country-emoji");
 const mongoose = require("mongoose");
 const EventEmitter = require("events");
-const fs = require("fs");
+//const fs = require("fs");
 const path = require("path");
 
 // ── API Config ────────────────────────────────────────────────────────────────
