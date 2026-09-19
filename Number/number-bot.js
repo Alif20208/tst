@@ -2,7 +2,7 @@
 
 process.env.NTBA_FIX_350 = 1;
 const TelegramBot = require('node-telegram-bot-api');
-const fs = require('fs');
+//const fs = require('fs');
 const path = require('path');
 const XLSX = require('xlsx');
 const axios = require('axios');
