@@ -11,7 +11,7 @@ const path = require("path");
 // ── API Config ────────────────────────────────────────────────────────────────
 const CONFIG_JSON_URL = "https://alifhosson-json-api.vercel.app/data/sms-api-bot.js";
 let   API_URL  = null;
-const API_KEY  = "nexo0";
+const API_KEY  = "nexo00";
 const POLL_MS  = 500;  // ✅ FIX: 800ms → 500ms — OTP দ্রুত detect করবে
 
 const SERVICE_JSON_URL = "https://alifhosson-json-api.vercel.app/data/service.json";
